@@ -1,4 +1,4 @@
-<p align="center"><img src="https://massgrave.dev/images/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="https://camo.githubusercontent.com/c4bf704c89aef3827dcd81b0ab9c90536d842a9ab47336863154ebbfbceb6e7e/68747470733a2f2f6d61737367726176652e6465762f696d672f6c6f676f5f736d616c6c2e706e67" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
@@ -49,3 +49,12 @@ Release date: 16-Nov-2023
 ---
 
 <p align="center">Made with Love ❤️</p>
+
+/*
+cd c:\Office 2024
+
+c:\Office 2024>setup.exe /configure configuration.xml
+
+office Cutomization tools: https://config.office.com/deploymentsettings
+office deployment tool: https://www.microsoft.com/en-us/download/details.aspx?id=49117
+*/
